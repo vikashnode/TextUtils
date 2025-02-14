@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TextUtils/static/css/main.bbe32683.css",
-    "main.js": "/TextUtils/static/js/main.9fdca159.js",
-    "static/js/488.1fb5fe97.chunk.js": "/TextUtils/static/js/488.1fb5fe97.chunk.js",
-    "static/media/logo.svg": "/TextUtils/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/TextUtils/index.html",
-    "main.bbe32683.css.map": "/TextUtils/static/css/main.bbe32683.css.map",
-    "main.9fdca159.js.map": "/TextUtils/static/js/main.9fdca159.js.map",
-    "488.1fb5fe97.chunk.js.map": "/TextUtils/static/js/488.1fb5fe97.chunk.js.map"
+    "main.css": "/TextUtils-dev/static/css/main.bbe32683.css",
+    "main.js": "/TextUtils-dev/static/js/main.64144f74.js",
+    "static/js/488.2c8d4b62.chunk.js": "/TextUtils-dev/static/js/488.2c8d4b62.chunk.js",
+    "static/media/logo.svg": "/TextUtils-dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TextUtils-dev/index.html",
+    "main.bbe32683.css.map": "/TextUtils-dev/static/css/main.bbe32683.css.map",
+    "main.64144f74.js.map": "/TextUtils-dev/static/js/main.64144f74.js.map",
+    "488.2c8d4b62.chunk.js.map": "/TextUtils-dev/static/js/488.2c8d4b62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbe32683.css",
-    "static/js/main.9fdca159.js"
+    "static/js/main.64144f74.js"
   ]
 }
